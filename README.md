@@ -70,3 +70,6 @@ python -m pytest tests/ -v
 - Testes isolados com banco temporário
 - Modelo preditivo de Machine Learning
 - Dashboard de acompanhamento
+## Documentação interativa da API
+
+![Documentação Swagger da Academia Churn API](swagger-api.png)
